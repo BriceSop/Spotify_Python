@@ -1,6 +1,4 @@
 # Data Analysis Spotify
-## *Status*
-Project completed.
 ## *Description*
 This project aims to build an interactive graphical interface, allowing the user to perform various searches related to music through the use of an artist name, a song name, or according to a year and a specific genre.
 In order to become familiar with the data, a descriptive analysis was carried out beforehand, accompanied by a visualization of the data.
